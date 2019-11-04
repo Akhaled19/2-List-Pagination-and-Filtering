@@ -34,12 +34,12 @@ function appendPageLinks (list) {
    newdiv.appendChild(newul);
    
    
-   for (let i = 1; i <= totalPages.length; i++) {
+   for (let i = 1; i <= totalPages; i++) {
       const lis = document.createElement('li');
       newul.appendChild(lis); 
 
       const links = document.createElement('a');
-      links.textContent = 'i';
+      links.textContent = i;
       links.href = '#';
       lis.appendChild(links);
 
