@@ -1,4 +1,4 @@
-# Unit-2-List Pagination and Filtering
+# List Pagination and Filtering
 Azal Khaled's List Pagination and Filtering Project 2 as a TeamTreeHouse Full Stack JavaScript Talent Path student.
 
 ## App Discription 
